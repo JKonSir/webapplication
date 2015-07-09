@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+body{
+    background-image: url("content/макет_сайта.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h1{
+    position: relative;
+    left: 25%;
+    color: white;
+}
+h2{
+    position: relative;
+    top: 15%;
+    left: 24%;
+    color: white;
+}
+h3{
+    position: relative;
+    top: 25%;
+    right: 24%;
+    color: white;
+}
+form{
+    position: relative;
+    top: 35%;
+    left: 24%;
+}
+.err{
+    border-style: solid;
+    border-color: red;
+}
+.result{
+    position: relative;
+    top: 35%;
+    left: 24%;
+}
+.index{
+    position: relative;
+    top: 45%;
+    left: 24%;
+}
+a:visited{
+    color: #800080;
+}
+a:hover{
+    color: #800000;
+}
